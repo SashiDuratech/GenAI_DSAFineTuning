@@ -1,0 +1,802 @@
+[
+  {
+    "problem": "My data usage last month was 11GB. What plan should I switch to?",
+    "solution": " Your current usage is 11GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Basic Plan will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Basic Plan suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 67GB. What plan should I switch to?",
+    "solution": " Your current usage is 67GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for data overage fee on my bill. What does this mean?",
+    "solution": " The data overage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 178GB. What plan should I switch to?",
+    "solution": " Your current usage is 178GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Basic Plan will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Basic Plan suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 27GB. What plan should I switch to?",
+    "solution": " Your current usage is 27GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 13GB. What plan should I switch to?",
+    "solution": " Your current usage is 13GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for data overage fee on my bill. What does this mean?",
+    "solution": " The data overage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 11GB. What plan should I switch to?",
+    "solution": " Your current usage is 11GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 188GB. What plan should I switch to?",
+    "solution": " Your current usage is 188GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 112GB. What plan should I switch to?",
+    "solution": " Your current usage is 112GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for equipment rental charge on my bill. What does this mean?",
+    "solution": " The equipment rental charge appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 6GB. What plan should I switch to?",
+    "solution": " Your current usage is 6GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding pro-rated billing on my last bill.",
+    "solution": " According to company policy, pro-rated billing disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding late fee waiver on my last bill.",
+    "solution": " According to company policy, late fee waiver disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for late payment fee on my bill. What does this mean?",
+    "solution": " The late payment fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding refund eligibility on my last bill.",
+    "solution": " According to company policy, refund eligibility disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding pro-rated billing on my last bill.",
+    "solution": " According to company policy, pro-rated billing disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 16GB. What plan should I switch to?",
+    "solution": " Your current usage is 16GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 142GB. What plan should I switch to?",
+    "solution": " Your current usage is 142GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for equipment rental charge on my bill. What does this mean?",
+    "solution": " The equipment rental charge appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding service interruption policy on my last bill.",
+    "solution": " According to company policy, service interruption policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 152GB. What plan should I switch to?",
+    "solution": " Your current usage is 152GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 79GB. What plan should I switch to?",
+    "solution": " Your current usage is 79GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for data overage fee on my bill. What does this mean?",
+    "solution": " The data overage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for equipment rental charge on my bill. What does this mean?",
+    "solution": " The equipment rental charge appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding data rollover policy on my last bill.",
+    "solution": " According to company policy, data rollover policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 46GB. What plan should I switch to?",
+    "solution": " Your current usage is 46GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding pro-rated billing on my last bill.",
+    "solution": " According to company policy, pro-rated billing disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding service interruption policy on my last bill.",
+    "solution": " According to company policy, service interruption policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 160GB. What plan should I switch to?",
+    "solution": " Your current usage is 160GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Basic Plan will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Basic Plan suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 141GB. What plan should I switch to?",
+    "solution": " Your current usage is 141GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 46GB. What plan should I switch to?",
+    "solution": " Your current usage is 46GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding data rollover policy on my last bill.",
+    "solution": " According to company policy, data rollover policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding service interruption policy on my last bill.",
+    "solution": " According to company policy, service interruption policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 61GB. What plan should I switch to?",
+    "solution": " Your current usage is 61GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 19GB. What plan should I switch to?",
+    "solution": " Your current usage is 19GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding data rollover policy on my last bill.",
+    "solution": " According to company policy, data rollover policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding refund eligibility on my last bill.",
+    "solution": " According to company policy, refund eligibility disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 59GB. What plan should I switch to?",
+    "solution": " Your current usage is 59GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 106GB. What plan should I switch to?",
+    "solution": " Your current usage is 106GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 41GB. What plan should I switch to?",
+    "solution": " Your current usage is 41GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding late fee waiver on my last bill.",
+    "solution": " According to company policy, late fee waiver disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 72GB. What plan should I switch to?",
+    "solution": " Your current usage is 72GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 114GB. What plan should I switch to?",
+    "solution": " Your current usage is 114GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 97GB. What plan should I switch to?",
+    "solution": " Your current usage is 97GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for data overage fee on my bill. What does this mean?",
+    "solution": " The data overage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 28GB. What plan should I switch to?",
+    "solution": " Your current usage is 28GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding plan upgrade policy on my last bill.",
+    "solution": " According to company policy, plan upgrade policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for equipment rental charge on my bill. What does this mean?",
+    "solution": " The equipment rental charge appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding plan upgrade policy on my last bill.",
+    "solution": " According to company policy, plan upgrade policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding plan upgrade policy on my last bill.",
+    "solution": " According to company policy, plan upgrade policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding plan upgrade policy on my last bill.",
+    "solution": " According to company policy, plan upgrade policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 179GB. What plan should I switch to?",
+    "solution": " Your current usage is 179GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Basic Plan will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Basic Plan suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 169GB. What plan should I switch to?",
+    "solution": " Your current usage is 169GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding refund eligibility on my last bill.",
+    "solution": " According to company policy, refund eligibility disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding data rollover policy on my last bill.",
+    "solution": " According to company policy, data rollover policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for equipment rental charge on my bill. What does this mean?",
+    "solution": " The equipment rental charge appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 133GB. What plan should I switch to?",
+    "solution": " Your current usage is 133GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding service interruption policy on my last bill.",
+    "solution": " According to company policy, service interruption policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 55GB. What plan should I switch to?",
+    "solution": " Your current usage is 55GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for late payment fee on my bill. What does this mean?",
+    "solution": " The late payment fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 158GB. What plan should I switch to?",
+    "solution": " Your current usage is 158GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Basic Plan will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Basic Plan suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding data rollover policy on my last bill.",
+    "solution": " According to company policy, data rollover policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding pro-rated billing on my last bill.",
+    "solution": " According to company policy, pro-rated billing disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 22GB. What plan should I switch to?",
+    "solution": " Your current usage is 22GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 37GB. What plan should I switch to?",
+    "solution": " Your current usage is 37GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 145GB. What plan should I switch to?",
+    "solution": " Your current usage is 145GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for late payment fee on my bill. What does this mean?",
+    "solution": " The late payment fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 113GB. What plan should I switch to?",
+    "solution": " Your current usage is 113GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 187GB. What plan should I switch to?",
+    "solution": " Your current usage is 187GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding data rollover policy on my last bill.",
+    "solution": " According to company policy, data rollover policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 117GB. What plan should I switch to?",
+    "solution": " Your current usage is 117GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 35GB. What plan should I switch to?",
+    "solution": " Your current usage is 35GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for data overage fee on my bill. What does this mean?",
+    "solution": " The data overage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for late payment fee on my bill. What does this mean?",
+    "solution": " The late payment fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 155GB. What plan should I switch to?",
+    "solution": " Your current usage is 155GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 63GB. What plan should I switch to?",
+    "solution": " Your current usage is 63GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Basic Plan will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Basic Plan suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding refund eligibility on my last bill.",
+    "solution": " According to company policy, refund eligibility disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 76GB. What plan should I switch to?",
+    "solution": " Your current usage is 76GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 59GB. What plan should I switch to?",
+    "solution": " Your current usage is 59GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 190GB. What plan should I switch to?",
+    "solution": " Your current usage is 190GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 126GB. What plan should I switch to?",
+    "solution": " Your current usage is 126GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for equipment rental charge on my bill. What does this mean?",
+    "solution": " The equipment rental charge appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding late fee waiver on my last bill.",
+    "solution": " According to company policy, late fee waiver disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 95GB. What plan should I switch to?",
+    "solution": " Your current usage is 95GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding data rollover policy on my last bill.",
+    "solution": " According to company policy, data rollover policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding service interruption policy on my last bill.",
+    "solution": " According to company policy, service interruption policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 20GB. What plan should I switch to?",
+    "solution": " Your current usage is 20GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Basic Plan will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Basic Plan suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding service interruption policy on my last bill.",
+    "solution": " According to company policy, service interruption policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding refund eligibility on my last bill.",
+    "solution": " According to company policy, refund eligibility disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for data overage fee on my bill. What does this mean?",
+    "solution": " The data overage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding late fee waiver on my last bill.",
+    "solution": " According to company policy, late fee waiver disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding late fee waiver on my last bill.",
+    "solution": " According to company policy, late fee waiver disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding data rollover policy on my last bill.",
+    "solution": " According to company policy, data rollover policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding plan upgrade policy on my last bill.",
+    "solution": " According to company policy, plan upgrade policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 8GB. What plan should I switch to?",
+    "solution": " Your current usage is 8GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for data overage fee on my bill. What does this mean?",
+    "solution": " The data overage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for equipment rental charge on my bill. What does this mean?",
+    "solution": " The equipment rental charge appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding data rollover policy on my last bill.",
+    "solution": " According to company policy, data rollover policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for equipment rental charge on my bill. What does this mean?",
+    "solution": " The equipment rental charge appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for data overage fee on my bill. What does this mean?",
+    "solution": " The data overage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding refund eligibility on my last bill.",
+    "solution": " According to company policy, refund eligibility disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding pro-rated billing on my last bill.",
+    "solution": " According to company policy, pro-rated billing disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding pro-rated billing on my last bill.",
+    "solution": " According to company policy, pro-rated billing disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding service interruption policy on my last bill.",
+    "solution": " According to company policy, service interruption policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 174GB. What plan should I switch to?",
+    "solution": " Your current usage is 174GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 44GB. What plan should I switch to?",
+    "solution": " Your current usage is 44GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for late payment fee on my bill. What does this mean?",
+    "solution": " The late payment fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 20GB. What plan should I switch to?",
+    "solution": " Your current usage is 20GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 19GB. What plan should I switch to?",
+    "solution": " Your current usage is 19GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding plan upgrade policy on my last bill.",
+    "solution": " According to company policy, plan upgrade policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 19GB. What plan should I switch to?",
+    "solution": " Your current usage is 19GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 52GB. What plan should I switch to?",
+    "solution": " Your current usage is 52GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Basic Plan will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Basic Plan suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for equipment rental charge on my bill. What does this mean?",
+    "solution": " The equipment rental charge appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 163GB. What plan should I switch to?",
+    "solution": " Your current usage is 163GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Basic Plan will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Basic Plan suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for equipment rental charge on my bill. What does this mean?",
+    "solution": " The equipment rental charge appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 149GB. What plan should I switch to?",
+    "solution": " Your current usage is 149GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 71GB. What plan should I switch to?",
+    "solution": " Your current usage is 71GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 66GB. What plan should I switch to?",
+    "solution": " Your current usage is 66GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding data rollover policy on my last bill.",
+    "solution": " According to company policy, data rollover policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 122GB. What plan should I switch to?",
+    "solution": " Your current usage is 122GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding refund eligibility on my last bill.",
+    "solution": " According to company policy, refund eligibility disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for equipment rental charge on my bill. What does this mean?",
+    "solution": " The equipment rental charge appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 30GB. What plan should I switch to?",
+    "solution": " Your current usage is 30GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding late fee waiver on my last bill.",
+    "solution": " According to company policy, late fee waiver disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding refund eligibility on my last bill.",
+    "solution": " According to company policy, refund eligibility disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for late payment fee on my bill. What does this mean?",
+    "solution": " The late payment fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding late fee waiver on my last bill.",
+    "solution": " According to company policy, late fee waiver disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding plan upgrade policy on my last bill.",
+    "solution": " According to company policy, plan upgrade policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 161GB. What plan should I switch to?",
+    "solution": " Your current usage is 161GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 7GB. What plan should I switch to?",
+    "solution": " Your current usage is 7GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 81GB. What plan should I switch to?",
+    "solution": " Your current usage is 81GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 39GB. What plan should I switch to?",
+    "solution": " Your current usage is 39GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Basic Plan will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Basic Plan suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding refund eligibility on my last bill.",
+    "solution": " According to company policy, refund eligibility disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 74GB. What plan should I switch to?",
+    "solution": " Your current usage is 74GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding plan upgrade policy on my last bill.",
+    "solution": " According to company policy, plan upgrade policy disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding late fee waiver on my last bill.",
+    "solution": " According to company policy, late fee waiver disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 134GB. What plan should I switch to?",
+    "solution": " Your current usage is 134GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding pro-rated billing on my last bill.",
+    "solution": " According to company policy, pro-rated billing disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 75GB. What plan should I switch to?",
+    "solution": " Your current usage is 75GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding late fee waiver on my last bill.",
+    "solution": " According to company policy, late fee waiver disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 46GB. What plan should I switch to?",
+    "solution": " Your current usage is 46GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Family Share will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Family Share suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 146GB. What plan should I switch to?",
+    "solution": " Your current usage is 146GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "My data usage last month was 148GB. What plan should I switch to?",
+    "solution": " Your current usage is 148GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Data Saver will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Data Saver suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I see a line item for international roaming charges on my bill. What does this mean?",
+    "solution": " The international roaming charges appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for minimum usage fee on my bill. What does this mean?",
+    "solution": " The minimum usage fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for activation fee on my bill. What does this mean?",
+    "solution": " The activation fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I see a line item for late payment fee on my bill. What does this mean?",
+    "solution": " The late payment fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "My data usage last month was 42GB. What plan should I switch to?",
+    "solution": " Your current usage is 42GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Pro Connect will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Pro Connect suits your needs best.\n I recommend upgrading within the next billing cycle."
+  },
+  {
+    "problem": "I want to raise a dispute regarding late fee waiver on my last bill.",
+    "solution": " According to company policy, late fee waiver disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I see a line item for late payment fee on my bill. What does this mean?",
+    "solution": " The late payment fee appears as a fixed fee based on your usage.\n Without clarification, users may feel overcharged.\n This fee ensures you have uninterrupted service.\n Consider monitoring usage alerts to avoid this fee.\n Intuitively, the charge reflects actual usage beyond your plan.\n Next, check your detailed usage report to confirm."
+  },
+  {
+    "problem": "I want to raise a dispute regarding refund eligibility on my last bill.",
+    "solution": " According to company policy, refund eligibility disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "I want to raise a dispute regarding late fee waiver on my last bill.",
+    "solution": " According to company policy, late fee waiver disputes must be filed within 30 days.\n Late submissions may not be considered.\n Filing now could lead to a waiver of the contested fee.\n You could also request a callback from a specialist.\n My gut says they\u2019ll approve it if documentation is provided.\n Submit your dispute via the customer portal with supporting docs."
+  },
+  {
+    "problem": "My data usage last month was 175GB. What plan should I switch to?",
+    "solution": " Your current usage is 175GB, exceeding the standard tier.\n Staying on the current plan risks overage fees.\n Switching to Unlimited Max will cover your peak usage.\n Upside \u2013 unlimited data for a small premium.\n I feel Unlimited Max suits your needs best.\n I recommend upgrading within the next billing cycle."
+  }
+]
