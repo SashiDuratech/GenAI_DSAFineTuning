@@ -1,0 +1,802 @@
+[
+  {
+    "text": "There is an unauthorized transaction on my account.",
+    "label": 1
+  },
+  {
+    "text": "Tell me about the benefits of a platinum checking account.",
+    "label": 0
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "The service charge on my statement is unclear.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "I would like to know my credit card due date.",
+    "label": 0
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "Explain the rewards program for debit card usage.",
+    "label": 0
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "My bill for last month shows incorrect interest charges.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "Tell me about the benefits of a platinum checking account.",
+    "label": 0
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "Show me my last five transactions.",
+    "label": 0
+  },
+  {
+    "text": "Why was I charged for paper statements when I'm enrolled in e-statements?",
+    "label": 1
+  },
+  {
+    "text": "Explain the rewards program for debit card usage.",
+    "label": 0
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "The service charge on my statement is unclear.",
+    "label": 1
+  },
+  {
+    "text": "The service charge on my statement is unclear.",
+    "label": 1
+  },
+  {
+    "text": "Explain the rewards program for debit card usage.",
+    "label": 0
+  },
+  {
+    "text": "Show me my last five transactions.",
+    "label": 0
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "Can you provide the interest rate for savings accounts?",
+    "label": 0
+  },
+  {
+    "text": "Tell me about the benefits of a platinum checking account.",
+    "label": 0
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "Can you provide the interest rate for savings accounts?",
+    "label": 0
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "Why was I charged for paper statements when I'm enrolled in e-statements?",
+    "label": 1
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "What is my current account balance?",
+    "label": 0
+  },
+  {
+    "text": "Show me my last five transactions.",
+    "label": 0
+  },
+  {
+    "text": "I would like to know my credit card due date.",
+    "label": 0
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "The service charge on my statement is unclear.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "My bill for last month shows incorrect interest charges.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "What is my current account balance?",
+    "label": 0
+  },
+  {
+    "text": "There is an unauthorized transaction on my account.",
+    "label": 1
+  },
+  {
+    "text": "Can you provide the interest rate for savings accounts?",
+    "label": 0
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "The service charge on my statement is unclear.",
+    "label": 1
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "My bill for last month shows incorrect interest charges.",
+    "label": 1
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "My bill for last month shows incorrect interest charges.",
+    "label": 1
+  },
+  {
+    "text": "I want to dispute the late payment fee applied to my credit card.",
+    "label": 1
+  },
+  {
+    "text": "What is my current account balance?",
+    "label": 0
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "Tell me about the benefits of a platinum checking account.",
+    "label": 0
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "The service charge on my statement is unclear.",
+    "label": 1
+  },
+  {
+    "text": "How do I reset my online banking password?",
+    "label": 0
+  },
+  {
+    "text": "My bill for last month shows incorrect interest charges.",
+    "label": 1
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "My bill for last month shows incorrect interest charges.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "How do I reset my online banking password?",
+    "label": 0
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "How do I reset my online banking password?",
+    "label": 0
+  },
+  {
+    "text": "I would like to know my credit card due date.",
+    "label": 0
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "The service charge on my statement is unclear.",
+    "label": 1
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "Can you provide the interest rate for savings accounts?",
+    "label": 0
+  },
+  {
+    "text": "How do I reset my online banking password?",
+    "label": 0
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "Why was I charged for paper statements when I'm enrolled in e-statements?",
+    "label": 1
+  },
+  {
+    "text": "Why was I charged for paper statements when I'm enrolled in e-statements?",
+    "label": 1
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "How do I reset my online banking password?",
+    "label": 0
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "Tell me about the benefits of a platinum checking account.",
+    "label": 0
+  },
+  {
+    "text": "Explain the rewards program for debit card usage.",
+    "label": 0
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "I want to dispute the late payment fee applied to my credit card.",
+    "label": 1
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "What is my current account balance?",
+    "label": 0
+  },
+  {
+    "text": "Explain the rewards program for debit card usage.",
+    "label": 0
+  },
+  {
+    "text": "Show me my last five transactions.",
+    "label": 0
+  },
+  {
+    "text": "Why was I charged for paper statements when I'm enrolled in e-statements?",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "I want to dispute the late payment fee applied to my credit card.",
+    "label": 1
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "I would like to know my credit card due date.",
+    "label": 0
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "My loan repayment amount seems wrong; please clarify.",
+    "label": 1
+  },
+  {
+    "text": "My loan repayment amount seems wrong; please clarify.",
+    "label": 1
+  },
+  {
+    "text": "Explain the rewards program for debit card usage.",
+    "label": 0
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "Tell me about the benefits of a platinum checking account.",
+    "label": 0
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "Show me my last five transactions.",
+    "label": 0
+  },
+  {
+    "text": "Show me my last five transactions.",
+    "label": 0
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "I would like to know my credit card due date.",
+    "label": 0
+  },
+  {
+    "text": "What is my current account balance?",
+    "label": 0
+  },
+  {
+    "text": "Why was I charged for paper statements when I'm enrolled in e-statements?",
+    "label": 1
+  },
+  {
+    "text": "Tell me about the benefits of a platinum checking account.",
+    "label": 0
+  },
+  {
+    "text": "What is my current account balance?",
+    "label": 0
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "There is an unauthorized transaction on my account.",
+    "label": 1
+  },
+  {
+    "text": "Tell me about the benefits of a platinum checking account.",
+    "label": 0
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "Show me my last five transactions.",
+    "label": 0
+  },
+  {
+    "text": "I would like to know my credit card due date.",
+    "label": 0
+  },
+  {
+    "text": "The service charge on my statement is unclear.",
+    "label": 1
+  },
+  {
+    "text": "The service charge on my statement is unclear.",
+    "label": 1
+  },
+  {
+    "text": "Tell me about the benefits of a platinum checking account.",
+    "label": 0
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "The service charge on my statement is unclear.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "How do I reset my online banking password?",
+    "label": 0
+  },
+  {
+    "text": "I want to dispute the late payment fee applied to my credit card.",
+    "label": 1
+  },
+  {
+    "text": "Can you provide the interest rate for savings accounts?",
+    "label": 0
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "Why was I charged for paper statements when I'm enrolled in e-statements?",
+    "label": 1
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "I want to dispute the late payment fee applied to my credit card.",
+    "label": 1
+  },
+  {
+    "text": "I would like to know my credit card due date.",
+    "label": 0
+  },
+  {
+    "text": "I would like to know my credit card due date.",
+    "label": 0
+  },
+  {
+    "text": "Can you provide the interest rate for savings accounts?",
+    "label": 0
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "What is my current account balance?",
+    "label": 0
+  },
+  {
+    "text": "I would like to know my credit card due date.",
+    "label": 0
+  },
+  {
+    "text": "What are the branch operating hours this weekend?",
+    "label": 0
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "My loan repayment amount seems wrong; please clarify.",
+    "label": 1
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "The ATM withdrawal fee is higher than advertised.",
+    "label": 1
+  },
+  {
+    "text": "I want to dispute the late payment fee applied to my credit card.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "Tell me about the benefits of a platinum checking account.",
+    "label": 0
+  },
+  {
+    "text": "There is an unauthorized transaction on my account.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "What is my current account balance?",
+    "label": 0
+  },
+  {
+    "text": "I was billed twice for the same transaction.",
+    "label": 1
+  },
+  {
+    "text": "I want to dispute the late payment fee applied to my credit card.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "There is an unauthorized transaction on my account.",
+    "label": 1
+  },
+  {
+    "text": "How can I update my contact information on file?",
+    "label": 0
+  },
+  {
+    "text": "I would like to know my credit card due date.",
+    "label": 0
+  },
+  {
+    "text": "How do I set up automatic bill payments?",
+    "label": 0
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  },
+  {
+    "text": "There is an unauthorized transaction on my account.",
+    "label": 1
+  },
+  {
+    "text": "There is an unauthorized transaction on my account.",
+    "label": 1
+  },
+  {
+    "text": "I never made this transfer; it's fraudulent.",
+    "label": 1
+  },
+  {
+    "text": "I want to dispute the late payment fee applied to my credit card.",
+    "label": 1
+  },
+  {
+    "text": "What is my current account balance?",
+    "label": 0
+  },
+  {
+    "text": "There is an unauthorized transaction on my account.",
+    "label": 1
+  },
+  {
+    "text": "There is an unauthorized transaction on my account.",
+    "label": 1
+  },
+  {
+    "text": "I was charged an overdraft fee that I shouldn't have.",
+    "label": 1
+  }
+]
